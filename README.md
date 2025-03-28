@@ -1,4 +1,5 @@
 # 🏆 TheBridge BBK - Data Science Repository
+![image](https://github.com/user-attachments/assets/641224cd-3ac8-4f1c-9914-5fe8613088fd)
 
 ¡Bienvenido al repositorio oficial de **The Bridge - BBK Data Science** de Jaime Relea Sastre! 🚀 Aquí encontrarás todo el material, notebooks, proyectos y recursos que necesitas para convertirte en un Data Scientist de élite. 💡📊
 
@@ -44,7 +45,7 @@
 
 Si tienes dudas o sugerencias, no dudes en abrir un issue o contactarme en **[jaimersmf@outlook.es](mailto:jaimersmf@outlook.es)**.
 
-🔗 **Síguenos en redes!**  
+🔗 **Sígueme en redes!**  
 🔗 LinkedIn: [Jaime Relea Sastre](https://www.linkedin.com/in/jrsmf/)  
 
 ---
