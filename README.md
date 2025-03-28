@@ -1,6 +1,6 @@
 # 🏆 TheBridge BBK - Data Science Repository
 
-¡Bienvenido al repositorio oficial de **The Bridge - BBK Data Science**! 🚀 Aquí encontrarás todo el material, notebooks, proyectos y recursos que necesitas para convertirte en un Data Scientist de élite. 💡📊
+¡Bienvenido al repositorio oficial de **The Bridge - BBK Data Science** de Jaime Relea Sastre! 🚀 Aquí encontrarás todo el material, notebooks, proyectos y recursos que necesitas para convertirte en un Data Scientist de élite. 💡📊
 
 ## 📌 Contenido
 
@@ -13,11 +13,11 @@
 
 1. **Clona este repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/thebridge-bbk-ds.git
+   git clone https://github.com/jaimersmf/The-Bridge.git
    ```
 2. **Accede al directorio:**
    ```bash
-   cd thebridge-bbk-ds
+   cd The-Bridge
    ```
 3. **Crea un entorno virtual (opcional pero recomendado):**
    ```bash
@@ -42,11 +42,10 @@
 
 ## 📢 Contacto
 
-Si tienes dudas o sugerencias, no dudes en abrir un issue o contactarnos en **[correo@ejemplo.com](mailto:correo@ejemplo.com)**.
+Si tienes dudas o sugerencias, no dudes en abrir un issue o contactarme en **[jaimersmf@outlook.es](mailto:jaimersmf@outlook.es)**.
 
 🔗 **Síguenos en redes!**  
-🐦 Twitter: [@TheBridgeTech](https://twitter.com/TheBridgeTech)  
-🔗 LinkedIn: [The Bridge](https://www.linkedin.com/school/thebridge/)  
+🔗 LinkedIn: [Jaime Relea Sastre](https://www.linkedin.com/in/jrsmf/)  
 
 ---
 
